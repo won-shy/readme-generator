@@ -12,7 +12,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "Please provide more details about your project and its purpose.",
+        message: "Please provide further details about your project and its purpose.",
         name: "about",
     },
     {
